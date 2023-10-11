@@ -1,0 +1,271 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-height: 200vh;
+}
+
+.body1 {
+    height: 130vh; 
+    background-color: #EEFEF7;
+}
+
+.body2{
+    background-color: #ffffff;
+    height: 210vh;
+    margin: auto;
+    overflow: hidden;
+}
+
+.body3{
+    background-color: #020101;
+    height: 200vh;
+}
+  
+
+
+.navbar{
+    background-color: #DFF9ED;
+    height: 140px;
+    padding-left: 10%;   
+}
+
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.navbar-items li a{
+    margin: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: 620;
+    font-size: 18px;
+}
+
+.navbar-items :hover{
+    color: #B1B7D1;
+}
+
+.navbar-item-link{
+    list-style: none;
+
+}
+
+.navbar-button{  
+padding-right: 10%;
+}
+
+.btn{
+    border-radius: 0%;
+    width: 120px;
+    height: 50px;
+    font-weight: bold;     
+}
+
+.baslik{
+    margin-top: 15px;
+    margin-left: 140px;
+    font-size: 75px;
+    width: 758px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+.metin1{
+    margin-top: 15px;
+    padding-top: 100px;
+    bottom: 0px;
+    text-align: left;
+    line-height: 2;
+    width: 400px;
+    font-size: large;
+    height: 180px;   
+}
+
+.btn2{
+    border-radius: 0%;
+    width: 120px;
+    height: 50px;
+    font-weight: bold;
+    margin-left: 145px;
+    margin-top: 20px;
+}
+
+.img1{
+    display: inline;
+    width: 1110px;
+    padding-top: 150px;
+    width: 82.4%;  
+}
+
+.altyazi{
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 40px;
+}
+
+.yazi2{
+    padding-top: 30vh;
+    color: #a6b1b4;
+    font-size: large;
+    padding-bottom: 10px;
+}
+
+
+.box{
+    width: 260px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 9%;
+}
+
+.box:hover{
+    border-color: gray;
+}
+
+.col-3{
+    align-items: center;
+}
+
+.icons{
+    width: 1300px;
+}
+
+.yazi3{
+    
+    padding-left: 162px;
+    margin-top:450px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.48em;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+
+.image-container {
+    position: relative;
+  }
+
+  .image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .resim2{
+    margin-top: 490px;
+    margin-left: 83px;
+  }
+  .resim1{
+    margin-top: 450px;
+    margin-left: 43px; 
+}
+
+.tik{
+    margin-left: 162px;
+}
+
+.tik li{
+    list-style: none;
+}
+.newfeature{
+    padding-top: 280px;
+    font-weight: bold;
+}
+
+.quickact{
+    color:#CFBDFF
+}
+
+.sonyazi{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    text-shadow:1px 2px 3px #CFBDFF;
+}
+
+.button-container {
+    text-align: center;
+  }
+  
+  .button-container button {
+    margin: 5px;
+  }
+  
+  .background-button {
+    width: 170px;
+    background-color: #C5C1F4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .border-button {
+    width: 170px;
+    background-color: transparent;
+    color: #C5C1F4;
+    border: 2px solid #C5C1F4;
+    padding: 10px 20px;
+  }
+  
+  .gray-line {
+    border: none;
+    height: 1px;
+    background-color: gray;
+    margin-top: 240px;
+  }
+  .gray-line2 {
+    border: none;
+    height: 1px;
+    background-color: gray;
+    margin-top:120px ;
+  }
+  
+  .altlogo{
+    margin-top: 120px ;
+    padding-left: 100px;
+    color: #020101;
+  }
+
+  .textson{
+    color: white;
+    text-align: center  ;
+
+  }
+
+  .sonbuton {
+    width: 170px;
+    background-color: #C5C1F4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    float: right;
+    margin-right: 100px;
+
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
